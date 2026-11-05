@@ -1,0 +1,5 @@
+## Interface: 16001
+## Title: No Quest Blue Blobs
+## Notes: Removes quest objective blobs from maps
+## AllowLoadGameType: camelot
+NoQuestBlobs.lua
